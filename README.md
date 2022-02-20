@@ -1,2 +1,2 @@
 # Art-works
-A Github repository that contains artworks since 2019. 
+A Github repository that contains all digital artworks since 2019. 
